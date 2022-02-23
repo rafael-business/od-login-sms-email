@@ -1,0 +1,95 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+#TB_title {
+    border-bottom: none !important;
+    background-color: transparent !important;
+}
+
+.field_tickbox {
+    margin: 26px 0 8px 0;
+}
+
+.field_tickbox label {
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.field_tickbox input[type=tel],
+.field_tickbox input[type=email] {
+    width: 100%;
+}
+
+.controls {
+    display: flex;
+}
+
+.icon_popup {
+    position: absolute;
+    top: 12px;
+}
+
+.controls .status {
+    flex: 2;
+    background-repeat: no-repeat;
+    opacity: 0;
+    transition: opacity ease 1s;
+}
+
+.controls .loading {
+    background-image: url(../img/loading.gif);
+    background-position: center -17px;
+    opacity: 1;
+}
+
+.controls .success {
+    background-image: url(../img/success.png);
+    opacity: 1;
+}
+
+.controls .error {
+    background-image: url(../img/error.png);
+    opacity: 1;
+}
+
+.controls .send_button {
+    display: block;
+    margin: 0 0 16px;
+    cursor: pointer;
+    flex: 1;
+}
+
+.msg {
+    text-align: center;
+}
+
+.centralized {
+    text-align: center;
+}
+
+.big_input {
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+    width: 218px;
+    border-width: 2px;
+}
+
+.msg span.error {
+    color: #d8002b;
+}
+
+.loading_msg {
+    background-image: url(../img/loading.gif);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#restart {
+    font-weight: 600;
+    color: inherit;
+    text-decoration: underline;
+}

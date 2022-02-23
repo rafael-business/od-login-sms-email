@@ -1,0 +1,22 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.field {
+    margin-bottom: 12px;
+    padding: 0 8px 0 2px;
+    position: relative;
+}
+
+.field input[type=url] {
+    width: calc( 100% - 50px );
+}
+
+.img_field_thumb {
+    position: absolute;
+    top: 20px;
+    right: 12px;
+    width: 30px;
+    height: 30px;
+}

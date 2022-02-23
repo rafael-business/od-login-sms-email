@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Olivas Digital - Login via SMS/E-mail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-17 17:59+0000\n"
+"PO-Revision-Date: 2021-07-22 15:00+0000\n"
+"Last-Translator: Rafael TESTE\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: od-login-sms-email"
+
+#: public/class-od-login-sms-email-public.php:352
+#, php-format
+msgid "\\ö/<br />Welcome <b>%s</b>. You are being redirected."
+msgstr "\\ö/<br />Bem vindo(a) <b>%s</b>. Você será redirecionado."
+
+#: admin/class-od-login-sms-email-admin.php:135
+#: admin/class-od-login-sms-email-admin.php:162
+#: admin/class-od-login-sms-email-code.php:123
+#: admin/class-od-login-sms-email-send-email.php:73
+#: admin/forms/od-login-sms-email-pt-options.php:24
+#: public/partials/od-login-sms-email-buttons.php:51
+msgid "Access Code"
+msgstr "Código de Acesso"
+
+#: admin/class-od-login-sms-email-admin.php:134
+#: admin/class-od-login-sms-email-admin.php:139
+msgid "Access Codes"
+msgstr "Códigos de Acesso"
+
+#: admin/class-od-login-sms-email-admin.php:140
+#: admin/class-od-login-sms-email-admin.php:141
+msgid "Add New"
+msgstr "Adicionar novo \"Código de Acesso\""
+
+#: admin/class-od-login-sms-email-admin.php:136
+msgid "Archives"
+msgstr "Arquivos"
+
+#: admin/class-od-login-sms-email-admin.php:137
+msgid "Attributes"
+msgstr "Atributos"
+
+#: public/partials/od-login-sms-email-buttons.php:28
+msgid "Cellphone"
+msgstr "Nº de Celular"
+
+#: admin/class-od-login-sms-email-admin.php:143
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/pages/od-login-sms-email-configs.php:52
+#: public/partials/od-login-sms-email-buttons.php:40
+msgid "Email"
+msgstr "E-mail"
+
+#: public/class-od-login-sms-email-public.php:154
+#: public/class-od-login-sms-email-public.php:248
+#: public/class-od-login-sms-email-public.php:326
+msgid "Empty field"
+msgstr "O campo está vazio.<br />Tente novamente."
+
+#: admin/pages/od-login-sms-email-configs.php:32
+#: admin/pages/od-login-sms-email-configs.php:57
+msgid "Enable"
+msgstr "Habilitar"
+
+#: public/class-od-login-sms-email-public.php:271
+msgid ""
+"Enter or paste the passcode sent into your email. It expires in 5 minutes."
+msgstr ""
+"Digite ou cole o código de acesso enviado em seu e-mail. Expira em 5 minutos."
+
+#: public/class-od-login-sms-email-public.php:177
+msgid ""
+"Enter or paste the passcode sent into your phone. It expires in 5 minutes."
+msgstr ""
+"Digite ou cole o código de acesso enviado via SMS. Expira em 5 minutos."
+
+#: admin/class-od-login-sms-email-code.php:125
+#: admin/forms/od-login-sms-email-pt-options.php:32
+msgid "Expiration Date"
+msgstr "Data de Expiração"
+
+#: public/class-od-login-sms-email-public.php:277
+msgid "Failed to send email"
+msgstr "Falha ao enviar e-mail"
+
+#: public/class-od-login-sms-email-public.php:183
+msgid "Failed to send SMS"
+msgstr "Falha ao enviar SMS"
+
+#: admin/class-od-login-sms-email-admin.php:150
+msgid "Featured Image"
+msgstr "Imagem de Destaque"
+
+#: admin/class-od-login-sms-email-admin.php:158
+msgid "Filter list"
+msgstr "Filtrar lista"
+
+#. Author URI of the plugin
+msgid "https://olivas.digital"
+msgstr "https://olivas.digital"
+
+#. URI of the plugin
+msgid "https://olivas.digital/plugin/od-login-sms-email"
+msgstr "https://olivas.digital/plugin/od-login-sms-email"
+
+#: admin/class-od-login-sms-email-admin.php:154
+msgid "Insert into"
+msgstr "Inserir"
+
+#: public/class-od-login-sms-email-public.php:285
+msgid "Invalid Email"
+msgstr "E-mail não encontrado.<br />Cadastre-se primeiro."
+
+#: public/class-od-login-sms-email-public.php:380
+msgid "Invalid nonce"
+msgstr "Nonce inválido"
+
+#: public/class-od-login-sms-email-public.php:362
+msgid ""
+"Invalid or incorrect Access Code. Try again.<br /><a href=\"#\" "
+"id=\"restart\">Restart</a>"
+msgstr ""
+"Código de acesso inválido. Tente outro código ou<br /><a href=\"#\" "
+"id=\"restart\">recomece</a>"
+
+#: admin/class-od-login-sms-email-admin.php:156
+msgid "List"
+msgstr "Lista"
+
+#: admin/class-od-login-sms-email-admin.php:157
+msgid "List navigation"
+msgstr "Lista de navegação"
+
+#: admin/class-od-login-sms-email-admin.php:163
+msgid "Login Access Codes"
+msgstr "Login com Códigos de Acesso"
+
+#. Description of the plugin
+msgid "Login via SMS/E-mail com integração Zenvia."
+msgstr "Login via SMS/E-mail com integração Zenvia."
+
+#: admin/pages/od-login-sms-email-configs.php:60
+msgid "Mail Icon"
+msgstr "Ícone E-mail"
+
+#: admin/class-od-login-sms-email-admin.php:142
+msgid "New"
+msgstr "Novo"
+
+#: public/class-od-login-sms-email-public.php:191
+msgid "No or more than one user(s) found with this number."
+msgstr "Nenhum, ou mais de um, usuário(s) encontrado(s) com este número."
+
+#: admin/class-od-login-sms-email-admin.php:148
+msgid "Not found"
+msgstr "Nenhum encontrado"
+
+#: admin/class-od-login-sms-email-admin.php:149
+msgid "Not found in Trash"
+msgstr "Nenhum encontrado na lixeira"
+
+#. Author of the plugin
+msgid "Olivas Digital"
+msgstr "Olivas Digital"
+
+#. Name of the plugin
+msgid "Olivas Digital - Login via SMS/E-mail"
+msgstr "Olivas Digital - Login via SMS/E-mail"
+
+#: admin/class-od-login-sms-email-admin.php:192
+msgid "Options"
+msgstr "Opções"
+
+#: admin/class-od-login-sms-email-admin.php:138
+msgid "Parent:"
+msgstr "Pai:"
+
+#: admin/class-od-login-sms-email-admin.php:132
+msgctxt "Post Type General Name"
+msgid "Access Codes"
+msgstr "Códigos de Acesso"
+
+#: admin/class-od-login-sms-email-admin.php:133
+msgctxt "Post Type Singular Name"
+msgid "Access Code"
+msgstr "Código de Acesso"
+
+#: admin/class-od-login-sms-email-admin.php:152
+msgid "Remove featured image"
+msgstr "Remover imagem de destaque"
+
+#: admin/class-od-login-sms-email-code.php:124
+#: admin/forms/od-login-sms-email-pt-options.php:28
+msgid "Requester"
+msgstr "Solicitante"
+
+#: admin/class-od-login-sms-email-admin.php:147
+msgid "Search"
+msgstr "Procurar"
+
+#: public/partials/od-login-sms-email-buttons.php:33
+#: public/partials/od-login-sms-email-buttons.php:45
+msgid "Send"
+msgstr "Enviar"
+
+#: admin/class-od-login-sms-email-admin.php:151
+msgid "Set featured image"
+msgstr "Escolher imagem de destaque"
+
+#: admin/class-od-login-sms-email-admin.php:101
+msgid "Settings"
+msgstr "Configurações"
+
+#: admin/pages/od-login-sms-email-configs.php:27
+msgid "SMS"
+msgstr "SMS"
+
+#: admin/pages/od-login-sms-email-configs.php:35
+msgid "SMS Icon"
+msgstr "Ícone SMS"
+
+#: admin/class-od-login-sms-email-admin.php:89
+#: admin/class-od-login-sms-email-admin.php:90
+#: admin/pages/od-login-sms-email-configs.php:19
+msgid "SMS/Email Login"
+msgstr "SMS/E-mail Login"
+
+#: admin/class-od-login-sms-email-admin.php:100
+msgid "SMS/Email Login - Settings"
+msgstr "SMS/E-mail Login - Settings"
+
+#: admin/class-od-login-sms-email-admin.php:144
+msgid "Update"
+msgstr "Atualizar"
+
+#: admin/class-od-login-sms-email-admin.php:155
+msgid "Uploaded to this"
+msgstr "Enviado para este"
+
+#: admin/class-od-login-sms-email-admin.php:153
+msgid "Use as featured image"
+msgstr "Usar como imagem de destaque"
+
+#: admin/class-od-login-sms-email-admin.php:145
+#: admin/class-od-login-sms-email-admin.php:146
+msgid "View"
+msgstr "Ver"
+
+#: admin/class-od-login-sms-email-code.php:140
+msgid "Will be deleted on:<br />"
+msgstr "Será excluído em:<br />"
+
+#: public/partials/od-login-sms-email-buttons.php:47
+msgid "You will receive a numeric code via Email."
+msgstr "Você receberá um código numérico via E-mail."
+
+#: public/partials/od-login-sms-email-buttons.php:35
+msgid "You will receive a numeric code via SMS."
+msgstr "Você receberá um código numérico via SMS."
+
+#: admin/pages/od-login-sms-email-configs.php:40
+msgid "Zenvia Account"
+msgstr "Conta Zenvia"
+
+#: admin/pages/od-login-sms-email-configs.php:44
+msgid "Zenvia Password"
+msgstr "Senha Zenvia"
